@@ -13,5 +13,5 @@ SPI interface for advanced Rapid Spanning Tree (RSTP) applications.
 In this repo you will find
 
 - Hardware files (in Kicad)
-- Firmware files (C++ mainly) (Haven't started this yet, current the switch works without firmware as an unmanaged switch)
+- Firmware files (C++ mainly) (Haven't started this yet, currently the switch works without firmware as an unmanaged switch)
 - Software files (Python) (Haven't started this yet, ideally I'd like a nice GUI to talk to the firmware to configure SwitchBlox)
